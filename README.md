@@ -1,1 +1,1 @@
-# loyaltyBankingApi
+# Loyalty Banking
